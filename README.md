@@ -1,1 +1,1 @@
-# CSCI-C343-Coursework
+# CSCI-C343 (Data Structures) at Indiana University Bloomington
